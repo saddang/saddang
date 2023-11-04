@@ -1,8 +1,8 @@
 ### Hello World 👋
 - 👨🏾‍💻  I’m Saddan 
-- 📊 ➰ I am a product manager from usa / human interested in software development / data analysis
-- 👀 I’m interested in renewables, machine learning, ETLs, streamlit and others!
-- 🌱 Learning more machine learning, cloud technologies and design patterns
+- 📊 ➰ I am a product manager from 🇺🇸🇩🇴🇦🇹
+- 👀 I’m interested in renewables, AI 🤖, machine learning, ETLs 📈, streamlit and others!
+- 🌱 Learning more history, machine learning, cloud technologies and design patterns
 
 ### :mailbox: Connect with me
 
@@ -12,8 +12,7 @@
 <br>
 
 ### Expertise 💻 
-🐍 
-<p><img align="left" alt="r-icon" src="https://www.r-project.org/Rlogo.png" height=20 /></p>
+🐍 <p><img align="left" alt="r-icon" src="https://www.r-project.org/Rlogo.png" height=20 /></p>
 <br>
 
 
